@@ -11,7 +11,7 @@ Um app desenvolvido em Reat Native que usa uma api fake em server json para list
   <img src="https://github.com/KelvinLopes/gomarketplace/blob/main/screenshot/Screenshot%202020-12-04%20at%2020.33.04.png?raw=true"      width="800" heigth="900" align="center" alt="Tela do app no Chrome OS"/>
  </p>
 
-### como usar?
+### Como usar?
 
 Depois de clonar o repositório, acesse o diretório do projeto e rode o comando: ```yarn``` para instalar todas as dependências. Após isso rode o comando ```yarn start``` se estiver usando **Yarn**, isso já deixa o bundle iniciado, depois rode: ```yarn android```, caso esteja no Android senão pode rodar ```yarn ios```, aguardar o app ser instalado.
 
